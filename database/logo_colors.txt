@@ -1,0 +1,15 @@
+black     #000000
+
+white     #FFFFFF
+
+red-light #FF0101
+
+red-dark  #C90809
+
+blue-light #22CEFE
+
+blue-dark  #1BA0E1
+
+1891CB
+
+FE0000

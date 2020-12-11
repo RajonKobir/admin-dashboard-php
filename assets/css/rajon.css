@@ -1,0 +1,160 @@
+/* common */
+.page-header.page_heading.text-center {
+    color: #C90809 !important;
+    font-weight: bold !important;
+}
+table, th, td, tr{
+    background-color:#FF0101;
+    color: #fff;
+    text-align: center;
+    overflow-x: auto;
+}
+.form-group h2{
+    text-align: center !important;
+    color: #C90809 !important;
+}
+input.btn {
+    background: #C90809 !important;
+    font-weight: bold;
+    color: #fff;
+    outline: none;
+}
+
+
+
+/* printing css */
+
+@media print and (color) {
+    /* avoid printing */
+    .avoid_print {
+      display:none !important;
+    }
+    title {
+      display:none !important;
+    }
+    table, th, td, tr{
+    background-color:#22CEFE !important;
+    color: black;
+    text-align: center;
+    overflow-x: auto;
+    }
+ }
+
+
+
+/* join member join.php */
+
+
+/*  join page   */
+.join_radio{
+    width: 15px;
+    height: 15px;
+}
+
+
+
+/*  home page   */
+.panel-body{
+    color:#1BA0E1;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.panel-title{
+    text-align: center;
+}
+#first_header{
+    font-size: 20px;
+}
+.red{
+    color:red;
+}
+
+
+/*  profile page   */
+#search{
+    width:45%;
+    height: 35px;
+    outline: none;
+    border: 2px solid #C90809;
+}
+#view_profile{
+    width:15%;
+    background: #C90809 !important;
+    font-weight: bold;
+    outline: none;
+}
+.show-list{
+    position: relative;
+    margin-top: 0;
+    margin-left: 20.5%;
+    width: 50%;
+}
+#click_button{
+    width: 20%;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+button.btn {
+    background: #C90809 !important;
+    font-weight: bold;
+    outline: none;
+    color: #fff;
+}
+button.btn:focus{
+    outline: none;
+    border: none;
+}
+button.btn.btn-lg.btn-block:focus {
+    outline: none;
+    border: none;
+}
+a.btn {
+    background: #C90809 !important;
+    font-weight: bold;
+    outline: none;
+    color: #fff;
+}
+a.btn:focus{
+    outline: none;
+    border: none;
+}
+h4.modal-title {
+    text-align: center;
+    color: #C90809;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+
+/* tree.php */
+i{
+    display:none;
+}
+table p{
+    color: #fff;
+}
+
+
+/* index.php */
+
+
+
+
+
+/* settings.php */
+#page-wrapper h1, #page-wrapper h2, #page-wrapper h3, #page-wrapper h4{
+    color: #C90809;
+}
+
+
+
+
+
+
+
+
+
